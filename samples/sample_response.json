@@ -1,0 +1,14 @@
+{
+	"saved": 2,
+	"rejected": 1,
+	"errors": [
+		{
+			"row": 4,
+			"errors": {
+				"name": ["This field may not be blank."],
+				"email": ["Enter a valid email address."],
+				"age": ["Age must be between 0 and 120."]
+			}
+		}
+	]
+}
